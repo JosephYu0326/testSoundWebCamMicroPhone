@@ -1,0 +1,6 @@
+build/
+node_modules/
+obj/
+.yarn/
+.vscode/
+dist/
